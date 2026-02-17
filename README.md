@@ -1,67 +1,17 @@
-## Hi there ヾ(≧▽≦*)o
+# Hi there ヾ(≧▽≦*)o
 
-<!--
-**Nebulabbx/Nebulabbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Prakhar
+Final-year CSE (AI/ML) student.
 
-Here are some ideas to get you started:
+Focused on Machine Learning, Algorithms, and building systems from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# I'm Prakhar
+## Tech
+Python • Scikit-learn • PyTorch • OpenAI Gym
 
-Final-year CSE (AI/ML) student focused on **Machine Learning, Algorithms, and Systems Thinking**.
-
-I build things that work — not just notebooks that run.
+## Interests
+ML implementation • Reinforcement Learning • DSA • Performance-oriented code
 
 ---
 
-## 🔍 Focus Areas
+Driven by curiosity. If it’s complex, Yes sir I'm interested!.
 
-- Machine Learning (classical + deep learning)
-- Reinforcement Learning (OpenAI Gym environments)
-- Data Structures & Algorithms
-- Performance-aware Python development
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-- Python
-
-**ML & DL**
-- Scikit-learn
-- PyTorch
-- OpenAI Gym
-
-**Core Strength**
-- Algorithmic problem solving  
-- Mathematical intuition behind ML models  
-- Implementation from scratch when needed  
-
----
-
-## 🚀 What I Care About
-
-- Understanding concepts deeply, not surface-level usage
-- Writing clean, efficient code
-- Bridging theory → implementation
-- Building systems that are reproducible and scalable
-
----
-
-## 📈 Current Direction
-
-- Advancing in ML model implementation
-- Strengthening DSA & competitive programming foundations
-- Exploring reinforcement learning environments
-
----
-> “Strong fundamentals. Clear thinking. Real implementation.”
